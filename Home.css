@@ -1,0 +1,31 @@
+.header h1 a{
+    color: #00b3fe;
+    text-decoration: none;
+    display: inline-block;
+    background: #fff;
+    margin: .4em 0em;
+    font-weight: 400;
+    text-transform: capitalize;
+}
+.header h1 a span {
+    font-size: .23em;
+    display: block;
+    letter-spacing: 3px;
+    text-transform: capitalize;
+    font-weight: 600;
+    color: #01edc9;
+}
+.Bar{
+	float: right;
+}
+.Bar td a{
+	float: right;
+	color: #01edc9;
+} 
+.banner-textagileinfo {
+    font-size: 1.1em; 
+    letter-spacing: 1px; 
+}
+.banner-1 {
+    min-height: 250px;
+}
